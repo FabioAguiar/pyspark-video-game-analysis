@@ -25,3 +25,6 @@ Durante a exploração dos dados, várias técnicas foram aplicadas, tais como:
 
 ## Como Utilizar
 O projeto inclui notebooks interativos que demonstram passo a passo as análises realizadas, permitindo que você explore e adapte as técnicas utilizadas de acordo com suas necessidades. O processo ETL também está disponível, possibilitando a extração, transformação e carga de dados similares.
+
+## Fonte do dataset
+https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset
